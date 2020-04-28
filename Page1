@@ -1,7 +1,7 @@
 # Header1
 ## Header2
 
-<pre><code>
+<code>
 <html>
 <html>
 <head>
@@ -27,4 +27,4 @@ function fizzbuzz() {
 
 </div>
 </body>
-</code></pre>
+</code>
