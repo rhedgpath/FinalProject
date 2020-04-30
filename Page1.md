@@ -20,7 +20,7 @@
 	display.innerHTML = displayHTML;
 	   }
 
-		</script>
+	</script>
 
 </head>
 
