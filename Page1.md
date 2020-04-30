@@ -22,11 +22,11 @@
 
 		</script>
 
-		</head>
+</head>
 
-		<body onload="fizzbuzz()">
-		<div id="display">
+<body onload="fizzbuzz()">
+<div id="display">
 
-		</div>
-		</body>
+</div>
+</body>
 </code></pre>
