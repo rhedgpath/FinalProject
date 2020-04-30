@@ -2,7 +2,7 @@
 # Header1
 ## Header2
 
-<pre><code>
+<code>
 	<html>
 	<html>
 	<head>
@@ -29,4 +29,4 @@
 
 	</div>
 	</body>
-</code></pre>
+</code>
