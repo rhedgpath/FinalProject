@@ -15,7 +15,7 @@
 	var display = document.getElementById('display');
 	var displayHTML = "";
 	for (i = 0; i < 100; i++) {
-		displayHTML += "<p>"+i+"</p>";
+			displayHTML += "<p>" + i + " </p>";
 	}
 	display.innerHTML = displayHTML;
 	}
