@@ -1,9 +1,9 @@
-# Header1
-## Header2
+# This Page is about me
+## My name is Riley Hedgpath
 
-This is my paragraph.  
-I am seperating it by two spaces.  
-It is pretty east to do.  
+I am an Information Technology major.  
+I am a business minor.  
+I got my first full time job at ActualTech Media.  
 
 [This is where I work.](https://www.actualtechmedia.com/)
 
