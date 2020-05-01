@@ -9,7 +9,7 @@ I love them both so much and they are great additions to my family.
 
 **Below is a picture of Rosie and Nova**
 
-![Rosie and Nova]()
+![Rosie and Nova](Nova_Rose.jpeg)
 
 _We love to do activites with the dogs such as:_
 
