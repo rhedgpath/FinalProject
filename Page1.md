@@ -7,6 +7,10 @@
 # Header1
 ## Header2
 
+This is my paragraph.  
+I am seperating it by two spaces.  
+It is pretty east to do.  
+
 <pre><code>
 	<html>
 	<html>
