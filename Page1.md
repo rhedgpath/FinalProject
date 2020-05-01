@@ -13,7 +13,16 @@ It is pretty east to do.
 
 [This is where I work.](https://www.actualtechmedia.com/)
 
+**I love going to the movies. It is one of my favorite things to do with friends and family.**
+
 ![Movies](https://cdn.pixabay.com/photo/2017/11/24/10/43/admission-2974645_1280.jpg)
+
+_Here are my top four favorite movies._
+
+* How to lose a guy in 10 days
+* The Guardian
+* The Blind Side
+* Molly's Game
 
 <pre><code>
 	<html>
