@@ -9,7 +9,7 @@ Samantha and Jayna are twins and the youngest in 8th grade.
 
 **We love hanging out and being silly together. Makaela, Sydney, and Samantha are pictured below.**
 
-![sisters](https://github.com/rhedgpath/FinalProject/blob/master/sisters.jpeg)
+![sisters](sisters.jpeg)
 
 _Sydney, Samantha, and Jayna all play softball_
 
