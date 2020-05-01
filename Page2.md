@@ -7,7 +7,7 @@ Samantha and Jayna are twins and the youngest in 8th grade.
 
 [This is the high school we all went to or will go to](https://www.fulton58.org/vnews/display.v/SEC/Fulton%20High%20School)
 
-**We love hanging out and being silly together. Makaela, Sydney, and Samantha are pictured below**
+**We love hanging out and being silly together. Makaela, Sydney, and Samantha are pictured below.**
 
 ![sisters](https://github.com/rhedgpath/FinalProject/blob/master/sisters.jpeg)
 
