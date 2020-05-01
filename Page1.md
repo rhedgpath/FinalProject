@@ -1,6 +1,8 @@
 # This Page is about me
 ## My name is Riley Hedgpath
 
+![Riley](https://github.com/rhedgpath/FinalProject/blob/master/Riley.JPG)
+
 I am an Information Technology major.  
 I am a business minor.  
 I got my first full time job at ActualTech Media.  
