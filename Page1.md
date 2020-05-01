@@ -1,7 +1,7 @@
 # This Page is about me
 ## My name is Riley Hedgpath
 
-![Riley](https://github.com/rhedgpath/FinalProject/blob/master/Riley.JPG)
+![Riley](Riley.JPG)
 
 I am an Information Technology major.  
 I am a business minor.  
