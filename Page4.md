@@ -10,7 +10,7 @@ We were there for a month and it was an amazing experience.
 
 **Below is a picture I took while in Rome of the Trevi fountain.**
 
-![Trevi Fountain]()
+![Trevi Fountain](TreviFountain.jpeg)
 
 _I was able to go to more places in Italy while I was there, such as:_
 
