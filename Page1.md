@@ -1,9 +1,3 @@
-[README.md](https://github.com/rhedgpath/FinalProject/blob/master/README.md)  
-[Page Two](https://github.com/rhedgpath/FinalProject/blob/master/Page2.md)   
-[Page Three](https://github.com/rhedgpath/FinalProject/blob/master/Page3.md)   
-[Page Four](https://github.com/rhedgpath/FinalProject/blob/master/Page4.md)   
-[Page Five](https://github.com/rhedgpath/FinalProject/blob/master/Page5.md)  
-
 # Header1
 ## Header2
 
@@ -23,6 +17,12 @@ _Here are my top four favorite movies._
 * The Guardian
 * The Blind Side
 * Molly's Game
+
+[README.md](https://github.com/rhedgpath/FinalProject/blob/master/README.md)  
+[Page Two](https://github.com/rhedgpath/FinalProject/blob/master/Page2.md)   
+[Page Three](https://github.com/rhedgpath/FinalProject/blob/master/Page3.md)   
+[Page Four](https://github.com/rhedgpath/FinalProject/blob/master/Page4.md)   
+[Page Five](https://github.com/rhedgpath/FinalProject/blob/master/Page5.md)  
 
 <pre><code>
 	<html>
