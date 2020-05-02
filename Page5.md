@@ -1,9 +1,9 @@
 # This Page is about Ireland
 ## I studied abroad in Ireland summer of 2019
 
-This is my paragraph.  
-I am seperating it by two spaces.  
-It is pretty east to do.  
+I was able to study abroad with my fellow IT students and go to Ireland.  
+It was led by Brian Mauer and counted as my senior capstone.  
+It was such an amazing experience and totally different from Italy.  
 
 [This is the exact trip I went on.](https://engineering.missouri.edu/study-abroad-old/study-abroad-ireland/ireland-4100/)
 
