@@ -1,7 +1,7 @@
 # This page is about my dogs
 ## I have two dogs named Rosalie and Nova.
 
-We got Rosie when I wa in fifth grade and Nova my freshman year of college.  
+We got Rosie when I was in fifth grade and Nova my freshman year of college.  
 Rosie is a toy yorkie and Nova is a mini australian shepherd.  
 I love them both so much and they are great additions to my family.
 
